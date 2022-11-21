@@ -11,7 +11,6 @@ import br.com.emanureiis.verificadorDeAprovacao.modelos.Aluno;
 public class Programa {
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);
-		
 		/**
 		 * Estrutura criada com a finalidade de capturar o nome,
 		 * média e falta(s) de cada aluno, além de cadastrá-los
